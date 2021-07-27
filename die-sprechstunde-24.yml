@@ -1,0 +1,65 @@
+---
+username: funky33
+guid: "6bce6b4a-1a6f-45af-b8c5-31cff3fe956b"
+title: 'Böllerverbote, Sünden, Social Justice Warrior & Internet.Kretze #Rundumschlag 9'
+amazon: ''
+spotify: 'https://open.spotify.com/episode/2K2JA1ApWs1okm3X2GjPZB?si=18b7faebc05e44e8'
+youtube: ''
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: 'Begrüßung'
+    community: false
+    ad: false
+    start: 00:00:00
+    end: 00:02:12
+    subtopics: []
+  - name: 'Weihnachtsstories'
+    community: false
+    ad: false
+    start: 00:02:12
+    end: 00:10:44
+    subtopics:
+      - "Weiß bemalter Schnee"
+      - "Weihnachtsfesttagsessen für Obdachlose"
+  - name: 'Sylvester / Neujahr'
+    community: false
+    ad: false
+    start: 00:10:44
+    end: 00:22:55
+    subtopics:
+      - "Feuerwerke"
+  - name: 'Qatar Sündensteuer für Alkohol'
+    community: false
+    ad: false
+    start: 00:22:55
+    end: 00:28:33
+    subtopics: []
+  - name: 'Activision Blizzard'
+    community: false
+    ad: false
+    start: 00:28:33
+    end: 00:32:00
+    subtopics: []
+  - name: 'Islamkonferenz im Innenmisterium'
+    community: false
+    ad: false
+    start: 00:32:00
+    end: 00:46:50
+    subtopics:
+      - "Wenn wir solche Probleme haben, dann geht es uns gut"
+      - "Wie die Medien voeinander Abschreiben"
+  - name: 'Wie man Tolleranz in America gesetzlich auslegt'
+    community: false
+    ad: false
+    start: 00:46:50
+    end: 00:53:58
+    subtopics: []
+  - name: 'Ollis positive Nachricht der Woche'
+    community: false
+    ad: false
+    start: 00:53:58
+    end: 00:59:10
+    subtopics:
+      - "University of melbourne"

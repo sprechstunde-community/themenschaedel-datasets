@@ -1,0 +1,40 @@
+username: Sajesga
+guid: 8d334d61-6bd4-45d7-a036-99b8d585e4de
+title: Die Geschichte von Long Dong 🍆 Papa hat den Größten! #Sprechstunde
+hosts:
+  - Flo
+  - Olli
+  - Paul
+youtube: https://www.youtube.com/watch?v=MK4toYM33U8
+spotify: https://open.spotify.com/episode/4ERzf49fgRcSRobZCxoqh6?si=7gUnSGBrT5Gfaf6Q3txZtg
+topics:
+  - name: Erlebnisse im Verkehr 
+    community: false
+    ad: false
+    start: 00:00:37
+    subtopics:
+      - Flo und der nicht-blinkende Mietwagen-Fahrer
+      - Nadine und der Parkplatzklau
+      - Olli und die Kotzerei in der Tram
+  - name: Vorbilder
+    community: true
+    ad: false
+    start: 00:07:17
+    subtopics:
+      - Exkurs Genitalbezeichnungen
+  - name: Wurzeln
+    community: true
+    ad: false
+    start: 00:26:00
+  - name: Eins Random Campingplatz-Geschichte
+    community: true
+    ad: false
+    start: 00:43:28
+    subtopics:
+      - Camping-Storys
+      - Beklaut auf Klassenfahrt
+      - Angeln
+  - name: Coronasituation 
+    community: false
+    ad: false
+    start: 00:58:55

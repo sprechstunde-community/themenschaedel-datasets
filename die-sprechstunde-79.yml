@@ -1,0 +1,76 @@
+---
+username: Echo_Sierra
+guid: 6eb71048-b917-447f-b956-551405dd313c
+title: Die Geschlechterrolle des Mannes! Über Vorurteile, Muskeln und peinliche Untersuchungen - #Sprechstude
+spotify: https://open.spotify.com/episode/1bzqiHc5bXjJRC1ajaj4Nm?si=r91u-XrzTd6ySRXPZF931Q
+hosts:
+  - Olli
+  - Paul
+topics:
+  - name: Einleitung und Gründe
+    community: true
+    ad: false
+    start: 00:00:00
+    end: 00:02:50
+
+  - name: Mann oder Mämme
+    community: true
+    ad: false
+    start: 00:02:51
+    end: 00:26:12
+    subtopics:
+      - Typisches Bild eines Mannes
+      - Weltkriege als Wendepunkt
+      - Frühkindliche Prägung
+      - Gesellschaftlicher Zwang
+
+  - name: Geschlechterunterschiede bei der Musterung
+    community: false
+    ad: false
+    start: 00:26:13
+    end: 00:35:40
+
+  - name: Männergrippe und andere Krankheiten
+    community: false
+    ad: false
+    start: 00:35:41
+    end: 00:39:00
+
+  - name: Disparitäten zwischen Mann und Frau im Bezug auf die Rente
+    community: false
+    ad: false
+    start: 00:39:01
+    end: 00:42.32
+
+  - name: Schulsport und Geschlechterrollen im Kindesalter
+    community: false
+    ad: false
+    start: 00:42:33
+    end: 00:52:18
+
+  - name: Gedankenexperiment Autoreifen
+    community: false
+    ad: false
+    start: 00:52:19
+    end: 00:54:57
+
+  - name: Geschlechterstereotypen im Bezug auf Spielzeug
+    community: false
+    ad: false
+    start: 00:54:58
+    end: 00:57:20
+
+  - name: Geschlechterstereotypen im Bezug auf Getränke
+    community: false
+    ad: false
+    start: 00:57:21
+    end: 00:59:30
+
+  - name: Geschlechterrollen in der Sprache?
+    community: false
+    ad: false
+    start: 00:59:31
+    end: 01:09:24
+    subtopics:
+      - Adolf Hitler
+      - Verabschiedung

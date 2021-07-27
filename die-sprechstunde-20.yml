@@ -1,0 +1,69 @@
+username: Hannor
+guid: 424ca359-716e-47dc-abb6-b5b07419522e
+title: YouTuber am Rande des Wahnsinns, Depressionen, Burn Out &amp; absolutes Unverständnis #Sprechstunde
+amazon:
+spotify: https://open.spotify.com/episode/2uSMOmjiGcKi77Un9cuzDo?si=G6ShlsE0TpGog499sG7ecA
+youtube:
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: Youtuber Burnout/Absturz/ Druck auf Youtuber
+    community: false
+    ad: false
+    start: 00:00:30
+    end: 00:20:45
+    subtopics:
+      - Miguel Pablo
+      - Liont
+      - Misses Vlog
+      - Flos und Ollis eigene Situation
+
+  - name: Platform YouTube + Alghorithmus erklärt
+    community: false
+    ad: false
+    start: 00:20:46
+    end: 00:40:59
+    subtopics:
+      - angestrebte Watch-Time
+      - Einfluss von schlechter Watch-Time auf Kanäle
+      - "Beispiel: Gronkh - Abbruch von Let's Plays, Showerland TV - Umstieg auf Twitch"
+      - YouTube Ziel von mehr Watchtime + Auswirkung auf die Qualität der Videos
+      - Privatfernsehen auf YouTube
+      - andere Platform als Youtube
+      - Flos Abo-Sparte + Watch-Time
+      - Artikel 13 + Auswirkung
+
+
+  - name: Gaming Kanal - Doctor Froid
+    community: false
+    ad: false
+    start: 41:00
+    end: 44:55
+    subtopics:
+      - Zustand und Zukunft des Kanals
+      - Auswirkung von Artikel 13
+
+  - name: Werbung für Twitch-Kanal
+    community: false
+    ad: true
+    start: 44:56
+    end: 45:20
+
+  - name: Alkohol und Gaming
+    community: false
+    ad: false
+    start: 45:21
+    end: 53:35
+    subtopics:
+      - Alkohol auf Veranstaltungen (Event, Presseevent, Convention)
+      - Verharmlosung von Alkohol in Gesellschaft
+      - Alkohol in der Geschichte
+      - Problem von Feierabendbier
+      - Youtuber Exsl95
+
+  - name: Ankündigung des Endes
+    community: false
+    ad: false
+    start: 53:35
+    end: 55:35

@@ -1,0 +1,69 @@
+---
+username: funky33
+guid: 3baecc96-c147-456e-97b0-bf1afcda367c
+title: 'Was gute Preis? Was gute Verschwörung? Was gute Mülleimer?'
+amazon: ''
+spotify: 'https://open.spotify.com/episode/13j2GmaBlCL24i8p7U7j2W?si=91e559d5dee24533'
+youtube: ''
+hosts:
+  - Flo
+  - Olli
+  - Paul
+topics:
+  - name: 'Flo Hat wieder angefangen mit Wai Thai'
+    community: false
+    ad: false
+    start: 00:00:47
+    end: 00:04:05
+    subtopics:
+      - Was tun bei Blauen Flecken an den Schienbeinen
+  - name: 'Manscaped / Your Balls will thank you'
+    community: false
+    ad: true
+    start: 00:04:05
+    end: 00:06:45
+    subtopics: []
+  - name: 'Was ist eigentlich zu teuer? / Qualitätsannahmepreis'
+    community: false
+    ad: false
+    start: 00:06:45
+    end: 00:28:20
+    subtopics:
+      - Spirituosen
+      - Autos
+      - T-Shirts
+      - Werkzeug
+  - name: 'Second Hand'
+    community: false
+    ad: false
+    start: 00:28:20
+    end: 00:35:18
+    subtopics:
+      - Vorbildfunktion
+  - name: 'Das Beste Eis'
+    community: false
+    ad: false
+    start: 00:35:18
+    end: 00:39:40
+    subtopics: []
+  - name: 'Wie entsorgt man Müll wenn die Tonne schon voll ist?'
+    community: false
+    ad: false
+    start: 00:39:40
+    end: 00:51:18
+    subtopics:
+      - Wie die Müllabfuhr die Straße sperrt
+      - Mont Gommery zerreißt gelbe Säcke
+  - name: 'Flos Wespenstich in der Hand und Schaut den Stream!'
+    community: false
+    ad: false
+    start: 00:51:18
+    end: 00:52:42
+    subtopics:
+      - Wespenmann
+  - name: 'Plausibelste Verschwörungstheorie'
+    community: true
+    ad: false
+    start: 00:52:42
+    end: 00:64:25
+    subtopics: []

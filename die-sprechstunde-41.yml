@@ -1,0 +1,66 @@
+username: Noah.Lup
+guid: 7cc91016-eceb-4a10-a3a9-c64ada5eacc2
+title: "Sex, Jungfrauen, Furries, Friendzones, Depressionen &amp; Demenz - Die erste richtige #Sprechstunde!"
+hosts:
+  - Flo
+  - Olli
+spotify: https://open.spotify.com/episode/1OBsuyDZBU3uZrYqhbNmBh
+topics:
+  - name: Einziger ohne Beziehung im Umfeld
+    community: true
+    ad: false
+    start: 00:02:50
+    subtopics:
+      - Kein Sex
+  - name: Jungfräulichkeit
+    community: true
+    ad: false
+    start: 00:08:00
+  - name: Allergie gegen Wasser und Sonne
+    community: true
+    ad: false
+    start: 00:12:00
+    subtopics:
+      - Chronic Fatigue Syndrome CFS
+  - name: Aufschieben wichtiger Aufgaben
+    community: true
+    ad: false
+    start: 00:18:30
+    subtopics:
+      - Berichtzettel Ausbildung
+  - name: Fernbeziehung
+    community: true
+    ad: false
+    start: 00:21:33
+  - name: Bartwuchs bei Frauen
+    community: true
+    ad: false
+    start: 00:25:25
+    subtopics:
+      - Debunk Haarwuchs nach Rasur
+      - Lasertherapie
+  - name: Friendzone
+    community: true
+    ad: false
+    start: 00:31:15
+    subtopics:
+      - Rauskommen aus der Friendzone
+      - Freundschaft plus
+      - Friendzone verdeutlichen
+  - name: Furry
+    community: true
+    ad: false
+    start: 00:36:24
+    subtopics:
+      - Geouted werden als Furry
+      - Selbstgespräch mit zweiter Identität
+      - Dinge offen erzählen
+  - name: Vergessen der Kindheit
+    community: true
+    ad: false
+    start: 00:43:46
+    subtopics:
+      - Angst vor Vergessen und Demenz
+      - Fotoalbum und induzierte Erinnerungen
+      - Krebsvorsorge
+      - Gehirntraining

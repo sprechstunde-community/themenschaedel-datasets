@@ -1,0 +1,30 @@
+---
+username: Bladewing
+guid: 134b2afe-a201-483e-a5b1-1fb71ee9c212
+title: Mit dem 2,3-Milliarden teuren U-Boot durch den Rhein! 🚢 #Sprechstunde
+youtube:
+spotify: https://open.spotify.com/episode/0Ba7r69DtiUb1yWvLhLuYI?si=Jls1COWGQR2TIbZeaAGz5w
+hosts:
+  - Olli
+  - Flo
+  - Paul
+topics:
+  - name: Muttertag
+    community: false
+    ad: false
+    start: 00:01:10
+    end: 00:00:00
+    subtopics:
+      - Muttertag bei den drei Jungs
+      - Corona-Maßnahmen, Situation am KuDamm
+      - Magnetfischen
+      - Luxus-U-Boot für 2,63 Mrd Euro
+      - Fußball /Bundesliga während Corona
+      - Arbeitssituation und -losigkeit während Corona
+      - Kritik an den Lockerungen und dem naiven Umgang damit seitens der Bevölkerung
+      - Anschlagsserie in Bayern von IS-Sympathisanten
+  - name: Erfahrungen mit Pfefferspray
+    community: false
+    ad: true
+    start: 00:50:30
+    end: 00:00:00

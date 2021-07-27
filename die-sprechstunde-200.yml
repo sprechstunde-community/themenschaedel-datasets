@@ -1,0 +1,73 @@
+---
+username: funky33
+guid: ac93afb5-6733-46cd-9b41-b76b7e03fcb9
+title: 'Wir malen uns die Welt, wie sie uns gefällt! Essen Omas & leben als Zombies weiter!'
+amazon: '' # N/A
+spotify: 'https://open.spotify.com/episode/0l2zg0wO4dgpQaOv96WNie'
+youtube: 'https://www.youtube.com/watch?v=Pt3TqcAPSj4'
+hosts:
+  - Flo
+  - Olli
+  - Paul
+topics:
+  - name: 'Wie gehts den Hosts & Frühjahrsmüdigkeit'
+    community: false
+    ad: false
+    start: 00:0:40
+    end: 00:01:35
+    subtopics: []
+  - name: 'CLARK'
+    community: false
+    ad: true
+    start: 00:01:38
+    end: 00:04:10
+    subtopics: []
+  - name: 'Fail der Woche'
+    community: false
+    ad: false
+    start: 00:04:17
+    end: 00:05:45
+    subtopics:
+      - 'Interessante Fakten zur Zahl 200'
+      - 'Aufforderung Lieblingsfolge ins Reddit'
+  - name: 'Euer eigenes Land & wie würde eure Flagge aussehen?'
+    community: true
+    ad: false
+    start: 00:05:45
+    end: 00:27:45
+    subtopics:
+      - 'Durex Performance'
+  - name: 'Der Mars'
+    community: true
+    ad: false
+    start: 00:27:46
+    end: 00:40:47
+    subtopics:
+      - 'Elon Musk'
+      - 'Jeff Bezos Lache'
+      - 'Multimilliardäre spenden für die Rettung der Umwelt'
+      - 'Marsrover auf Twitter'
+      - 'Der Marsianer (Film/Buch)'
+  - name: 'Omas Essen'
+    community: true
+    ad: false
+    start: 00:40:50
+    end: 00:56:20
+    subtopics:
+      - 'Helmut Kohl & Eierlecken'
+      - 'Internetausbau Horrorgeschichten'
+      - 'Deutschlands Versagen der letzten 18 Monate'
+      - 'Pauls Stau Erlebnis des Tages'
+  - name: 'Sterben oder Zombie'
+    community: true
+    ad: false
+    start: 00:56:20
+    end: 00:65:00
+    subtopics:
+      - 'Was die Niederländer uns voraus haben'
+  - name: 'Danke an alle die zuhören & Verabschiedung'
+    community: false
+    ad: false
+    start: 00:65:00
+    end: 00:67:09
+    subtopics: []

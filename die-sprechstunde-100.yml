@@ -1,0 +1,67 @@
+---
+username: jabas97
+guid: 8d1bbecf-d9f6-41d2-b5c3-cb467df598f2
+title: Wir feiern Jubiläum! 100 Folgen Sprechstunde 🥳 #Sprechstunde
+hosts:
+  - Flo
+  - Olli
+  - Paul
+topics:
+  - name: Intro und Ankündigung
+    community: true
+    ad: false
+    start: 00:00:05
+    end: 00:02:37
+  - name: Rückblick auf das Aufnehmen der ersten Sprechstunden-Folge
+    community: true
+    ad: false
+    start: 00:02:37
+    end: 00:04:46
+  - name: Umbenennung von "Sprechstunde & Rundumschlag" zu "Die Sprechstunde"
+    community: true
+    ad: false
+    start: 00:04:46
+    end: 00:12:06
+    subtopics:
+      - 00:06:03-00:09:08 Inhaltliches zur / Authentizität der Sprechstunde
+      - 00:09:08-00:09:35 Anekdote Musikgeschmack (Prag)
+      - 00:11:42-00:12:06 Ollis Run als Podcaster
+  - name: neues Studio und neue Mikros
+    community: true
+    ad: true
+    start: 00:12:06
+    end: 00:14:09
+    subtopics:
+      - 00:12:06-00:12:34 Sprechstunde-Sprechstunde
+      - 00:13:07-00:13:35 Dank an Sennheiser Berlin für Bügelmikros (quasi-Werbung)
+  - name: Copy&Taste-Küche
+    community: true
+    ad: false
+    start: 00:14:09
+    end: 00:17:57
+  - name: Zukunft der Sprechstunde (Gäste) und Teaser der Folge mit "Schnapsidee" (#102)
+    community: true
+    ad: false
+    start: 00:17:57
+    end: 00:36:24
+    subtopics:
+      - 00:19:56-00:23:03 Geschichte des Themenschädels, Menge der Themen pro Folge und Länge der Folgen
+      - 00:23:03-00:27:07 Telefonnummer und Beichten&Jugendsünden
+      - 00:31:43-00:33:04 Legalität von Marihuana in Berlin aktuell
+  - name: gezogenes Thema "Drogen"
+    community: true
+    ad: false
+    start: 00:36:24
+    end: 00:57:00
+    subtopics:
+      - 00:38:20-00:52:30 Volksdroge Alkohol
+      - 00:43:29-00:45:06 Männertag/Vatertag
+      - 00:50:30-00:52:30 als Medienschaffender auf Events umsonst saufen können
+      - 00:52:30-00:57:00 Zigaretten und Kiffen
+  - name: Ankündigung Paul-FAQ (= Folge #101) und Abmoderation
+    community: true
+    ad: false
+    start: 00:57:00
+    end: 01:02:18
+    subtopics:
+      - 00:58:27-01:00:18 Parteienlandschaft der Politik

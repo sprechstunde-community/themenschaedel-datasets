@@ -1,0 +1,35 @@
+---
+username: Rahel
+guid: e77913ea-4b86-4c99-8c8e-6e429ff35c76
+title: Die schlimmsten Jobs & besten Geschichten dazu... #Sprechstunde 1
+spotify: https://open.spotify.com/episode/6E3hH1bUotCI9GCHCR5y93?si=zMNIPI0PQGm7jWZ5Tba7qw
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: Podcast
+    community: false
+    ad: false
+    start: 00:00:28
+    end: 00:01:54
+  - name: Jobs
+    community: false
+    ad: false
+    start: 00:01:55
+    end: 00:55:08
+    subtopics:
+      - Nach dem Abi
+      - Arbeit während Schulzeit
+      - Olli bei Gamona
+      - YouTube Start
+      - Zurück zum Angestellten-Job
+      - Jobs die man nie machen könnte
+      - Beruf oder Berufung
+      - Lern mal was Ordentliches
+      - Sexismus am Arbeitsplatz
+
+  - name: Ende
+    community: false
+    ad: false
+    start: 00:55:08
+    end: 00:58:45

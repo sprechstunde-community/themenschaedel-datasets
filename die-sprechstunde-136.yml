@@ -1,0 +1,42 @@
+username: sajesga
+guid: 69709bbc-4872-4a53-b8f3-6c6017ca9775
+title: Podcast ohne Unterwäsche! Mit Brammen im Urlaub! 🌴 #Sprechstunde
+hosts:
+  - Flo
+  - Paul
+  - Brammen
+spotify: https://open.spotify.com/episode/7fp3cAgXdY6foWtwxJMf7M?si=k-Ur1hL2SJ2dwrHdDaa2QQ
+topics:
+  - name: Schwert oder Axt
+    community: true
+    ad: false
+    start: 00:02:00
+    subtopics: 
+      - Kinderserien
+  - name: Beifahrer
+    community: true
+    ad: false
+    start: 00:09:00
+    subtopics:
+      - Brammens schlimmster Unfall
+      - Kontaktlos bezahlen
+  - name: Duftkerzen
+    community: true
+    ad: false
+    start: 00:26:35
+    subtopics:
+      - Mumu-Kerzen und Onlyfans
+  - name: Tesafilm
+    community: true
+    ad: false
+    start: 00:36:38
+  - name: Kleidungsgewohnheiten
+    community: true
+    ad: false
+    start: 00:43:07
+  - name: Die BRAVO Zeitschrift
+    community: true
+    ad: false
+    start: 00:53:11
+    subtopics:
+      - Produkt Rezenssionen

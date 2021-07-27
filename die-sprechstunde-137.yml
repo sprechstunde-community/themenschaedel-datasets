@@ -1,0 +1,30 @@
+username: sajesga
+guid: 2cc149f2-a62a-4959-9eb7-0a278c9c439a
+title: Urlaub mit der Schutzbrot-Mafia &amp; Wir gründen unser eigenes Land! #Sprechstundee
+hosts:
+  - Flo
+  - Paul
+  - Olli
+youtube: https://www.youtube.com/watch?v=Qn72_mvq1Lw
+spotify: https://open.spotify.com/episode/5JKaPml1boM20XWWjBPcK9?si=tVCcUe79QF2ElgYk6zZVXA
+topics:
+  - name: LinkedIn
+    community: false
+    ad: true
+    start: 00:00:30
+  - name: Kurzurlaub am Wochenende 
+    community: false
+    ad: false
+    start: 00:01:42
+  - name: Grundstücke 
+    community: false
+    ad: false
+    start: 00:15:05
+  - name: Außer Schlüssel, Potte, Handy immer dabei?
+    community: true
+    ad: false
+    start: 00:24:33
+  - name: Schummeln
+    community: true
+    ad: false
+    start: 00:35:40

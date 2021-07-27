@@ -1,0 +1,36 @@
+username: Noah.Lup
+guid: 0ada2f70-5fff-44c3-9fbb-ea02d0c526c8
+title: "Artikel 13 kommt! Was jetzt? Ist das Internet verloren? - Sonderausgabe #Rundumschlag 27. März 2019"
+hosts:
+  - Bruno Kramm
+  - Olli
+spotify: https://open.spotify.com/episode/4VuhbC1cq1YTVAUYMb8Lw0
+youtube:
+topics:
+  - name: Wer ist Bruno Kramm
+    community: false
+    ad: false
+    start: 00:00:00
+  - name: Was bedeuten Artikel 11, 12 & 13
+    community: false
+    ad: false
+    start: 00:02:50
+    subtopics:
+      - Geschichte der Leistungsschutzrechte
+      - Monetarisierung durch Verwertungsgesellschaften
+      - Schrankenregelungen des Urheberrechts
+      - Pauschallizenzen von großen Verlegern
+  - name: Ein Zukunftsausblick und Vergleich zur Vergangenheit
+    community: false
+    ad: false
+    start: 00:24:40
+    subtopics:
+      - junge Menschen werden politisiert
+      - Datenfluss zu Google und Facebook
+      - Terrorfilter
+      - Ängste auf allen Seiten
+  - name: Zusammenfassung von Artikel 11, 12, 13
+    community: true
+    ad: false
+    start: 00:55:49
+    subtopics:

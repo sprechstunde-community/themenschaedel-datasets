@@ -1,0 +1,32 @@
+---
+username: funky33
+guid: 'e38634ad-5f39-485a-ab4e-0c79e954270b'
+title: 'Unsere Vorsätze & persönlichen Vorbilder - Warum ist Flo so angepisst & macht das alles überhaupt Sinn? #Sprechstunde 16'
+amazon: ''
+spotify: 'https://open.spotify.com/episode/5i3MC5i7owULxn1EGPS0t5?si=c0d4fda78c5040f3'
+youtube: ''
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: 'Neujahrsvorsätze und deren Inspiration'
+    community: true
+    ad: false
+    start: 00:01:05
+    subtopics: []
+  - name: 'Vorbilder'
+    community: true
+    ad: false
+    start: 00:16:25
+    end: 00:59:25
+    subtopics:
+      - 'Ollis Familiengeschichten'
+      - 'Tiere die wie kleine Kinder schreien (Campingplatzgeschichten)'
+      - 'Dumme Kinderspiele in der Kiese und Hecking'
+  - name: 'Endgeplänkel'
+    community: true
+    ad: false
+    start: 00:59:25
+    end: 00:62:34
+    subtopics: []
+

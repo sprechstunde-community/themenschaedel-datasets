@@ -1,0 +1,65 @@
+---
+username: Hannor
+guid: a991f98a-6f9d-430c-9daf-5b0ef368c057
+title: Das jährliche Weihnachts-Chaos, das geilste Spielzeug &amp; seltsame Feiertage #Sprechstunde 14
+amazon:
+spotify: https://open.spotify.com/episode/3Z95oCekyfECTQLrEOcSEz?si=9QP51-15QkSi32TEQkvRLw
+youtube:
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: Weihnachten
+    community: false
+    ad: false
+    start: 01:30
+    end: 26:30
+    subtopics:
+      - Tradition Flo
+      - Tradition Olli
+      - Wann Geschenkekauf
+      - Wichteln
+      - Weihnachtsmann
+      - Weihnachtsgeschenke als Kind
+      - Actionfiguren
+      - Hatchimals
+      - heutiges Spielzeug
+      - Hot Wheels Attack
+      - Spielzeug aus Schleim
+      - N64
+      - Essen zu Weihnachten
+      - Weihnachten International
+
+
+  - name: Andere Feiertage
+    community: false
+    ad: false
+    start: 26:31
+    end: 41:10
+    subtopics:
+      - Frauentag als Feiertag
+      - Vatertag vs Männertag
+      - Lieblingsfeiertag Olli
+      - Lieblingsfeiertag Flo
+      - Feirtage in Japan
+      - Feiertage in den Bundersländern Deutschlands
+      - Feiertage USA
+
+  - name: Zurück zu Weihnachten
+    community: false
+    ad: false
+    start: 41:11
+    end: 53:08
+    subtopics:
+      - Weihnachtsmann als Autorität
+      - Glaube an den Weihnachtsmann/Aufklärung
+      - Religion ist Depression
+      - Gott gibt's nicht
+
+
+
+  - name: Ankündigung des Endes
+    community: false
+    ad: false
+    start: 53:09
+    end: 54:10

@@ -1,0 +1,70 @@
+---
+username: funky33
+guid: 7e7577b7-2844-4f84-8e57-a677ca67d1d3
+title: 'Sprechstunde: Diskutieren mit rassistischen Eltern, Bumskarren & Beziehungstipps - Die richtige #Sprechstunde!'
+amazon: '' # N/A
+spotify: 'https://open.spotify.com/episode/43ADv277dwpU2rF9NtxbjK?si=tIL8vJyjTmaXhdAHng1D0Q'
+youtube: '' # N/A
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: 'Superjob im Ausland, machen oder nicht? - Frage von Thieflings are evil'
+    community: true
+    ad: false
+    start: 00:01:58
+    end: 00:07:10
+    subtopics: []
+  - name: 'Verzwackte Vater-Tochter Beziehung - Frage von Tina Blabla'
+    community: true
+    ad: false
+    start: 00:07:10
+    end: 00:22:52
+    subtopics: 
+      - 'Wie geht man mit einem Rassistischen, Sexistischen Klimaleugner um?'
+      - 'Weiterhin das Beste geben oder einfach aushalten bis nach dem Studium?'
+      - 'Wie kann ich besser Diskutieren lernen?'
+  - name: 'Soll ich einen Führerschein machen? - Frage von Gnadenlose Made'
+    community: true
+    ad: false
+    start: 00:22:55
+    end: 00:32:01
+    subtopics:
+      - 'Flos Anekdote zur Führerscheinprüfung'
+  - name: 'Wenn die Beziehung doch nciht mehr so wirkt wie früher, was tun? - Frage von Theannieblack'
+    community: true
+    ad: false
+    start: 00:32:02
+    end: 00:41:56
+    subtopics: []
+  - name: 'Was tun gegen starken Schweißfluss? - Frage von Anonym'
+    community: true
+    ad: false
+    start: 00:41:58
+    end: 00:47:20
+    subtopics: []
+  - name: 'Frühreif. Wie kann ich damit umgehen, dass ich dadurch schwierig soziale Kontakte knüpfen kann? - Frage von Loton'
+    community: true
+    ad: false
+    start: 00:47:20
+    end: 00:57:55
+    subtopics: []
+  - name: 'Gaffer - Frage von Anna die Truckering 95'
+    community: true
+    ad: false
+    start: 00:57:55
+    end: 00:67:56
+    subtopics:
+      - 'Mobile Games die man mit Flo zocken kann'
+  - name: 'Fanfictions - Frage von Lara x Meh'
+    community: true
+    ad: false
+    start: 00:67:56
+    end: 00:73:22
+    subtopics: []
+  - name: 'eSport oder Studium? - Frage von Flolli'
+    community: true
+    ad: false
+    start: 00:73:28
+    end: 00:79:04
+    subtopics: []

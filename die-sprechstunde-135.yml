@@ -1,0 +1,36 @@
+username: sajesga
+guid: c5aaee9f-1d1e-4289-8989-084ae5ac582e
+title: Viva la Revolution im katholischen Kindergarten &amp; charismatische Cosplays #Sprechstunde
+hosts:
+  - Flo
+  - Olli
+  - Paul
+  - Anni the Duck
+youtube: https://www.youtube.com/watch?v=iDZGvsoMEYs&t=1911s
+spotify: https://open.spotify.com/episode/33J27WxiL5ByG08ytGSzhr?si=msVrCrVATUG_HEGiBO5ReA
+topics:
+  - name: Sponsor LinkedIn
+    community: false
+    ad: true
+    start: 00:01:38
+  - name: Erste Erinnerung
+    community: true
+    ad: false
+    start: 00:04:50
+  - name: Produktivität
+    community: true
+    ad: false
+    start: 00:19:45
+    subtopic:
+      - Urlaub
+      - Produktivitäts Hacks
+  - name: Call of the Void
+    community: true
+    ad: false
+    start: 00:36:14
+  - name: Was würdest du Cosplayen?
+    community: true
+    ad: false
+    start: 00:43:33
+    subtopics:
+      - Röcke und Kleider

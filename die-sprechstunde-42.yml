@@ -1,0 +1,58 @@
+username: Noah.Lup
+guid: 192cb5e4-9b29-4b1f-8bb0-be8dab888489
+title: "Fridays for Future, bewaffnete Grundschüler, Hartz IV & Koks-Schneemänner in Japan! #Rundumschlag 13. März 2019"
+hosts:
+  - Flo
+  - Olli
+spotify: https://open.spotify.com/episode/6ywrSjB972jayegMWGvyuH
+topics:
+  - name: Drogen in Japan
+    community: false
+    ad: false
+    start: 00:01:00
+  - name: Finanzamt Ahlen pfändet Mops über ebay
+    community: false
+    ad: false
+    start: 00:03:47
+    subtopics:
+      - ToysRus und Hartz4
+  - name: Kind klaut versehentlich Sonnenbrille bei dm
+    community: false
+    ad: false
+    start: 00:11:34
+  - name: Abou Chaker HipHop Label
+    community: false
+    ad: false
+    start: 00:16:55
+    subtopics:
+      - Bushido
+  - name: Betrug im Internet
+    community: false
+    ad: false
+    start: 00:18:50
+    subtopics:
+      - gefälschte Produkte
+  - name: Jamal Khashoggi
+    community: false
+    ad: false
+    start: 00:21:40
+  - name: Fridays for Future
+    community: false
+    ad: false
+    start: 00:25:11
+    subtopics:
+      - Christian Lindners Lebensmotto
+      - Sinnhaftigkeit von Schulunterricht
+  - name: 11 Jähriger mit Pistole
+    community: false
+    ad: false
+    start: 00:37:55
+    subtopics:
+      - Waffen in der Schule
+      - Personenherkunft in Medienberichten
+  - name: Masernimpfung
+    community: false
+    ad: false
+    start: 00:43:00
+    subtopics:
+      - Pflichtimpfungen

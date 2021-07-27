@@ -1,0 +1,55 @@
+---
+username: Echo_Sierra
+guid: 66c548aa-7b3d-434e-90b1-8dfe784134b5
+title: Wir haben BEEF mit FLER!! Wir FANBOYS! #Rundumschlag
+spotify: https://open.spotify.com/episode/6dTo1yRBPBO1KsGbwMWOs5?si=iarDYzOtQRC4sujJPONuVA
+hosts:
+  - Flo
+  - Olli
+topics:
+  - name: Der Wochenbericht
+    community: false
+    ad: false
+    start: 00:00:40
+    end: 00:18:39
+    subtopics:
+      - MAG Erfurt 2019
+      - "Live auf der Messe: Morningshow und Copy and Taste"
+      - Kochen mit Felix von Kraftklub
+      - Kranke Kinder
+      - Lobeshymne auf die Community
+      - Flo, Olli und die E-Scooter
+
+  - name: Beef mit Fler
+    community: false
+    ad: false
+    start: 00:18:40
+    end: 00:39:25
+    subtopics:
+      - Ollis Serien empfelung Hip-Hop Evolution/Netflix
+
+  - name: Shitstorm gegen Arnold Schwarzenegger
+    community: false
+    ad: false
+    start: 00:39:26
+    end: 00:42:25
+    subtopics:
+
+  - name: Dieter Nuhr über Greta Thunberg
+    community: false
+    ad: false
+    start: 00:42:26
+    end: 00:54:21
+    subtopics:
+      - Was darf Satire
+      - Streitkultur und verstocktes System in Deutschland
+      - political correctness
+
+  - name: Fragen, Wünsche und Anregungen
+    community: false
+    ad: false
+    start: 00:54:22
+    end: 00:59:13
+    subtopics:
+      - BH-Größe
+      - Olli läd Fler zum Podcast ein

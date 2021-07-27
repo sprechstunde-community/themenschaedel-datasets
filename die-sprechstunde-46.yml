@@ -1,0 +1,53 @@
+username: Noah.Lup
+guid: b967e320-a637-4a9b-ac3f-50086a751ee8
+title: "Die Sprechstunde LIVE - mit euch als Gast! #Sprechstunde 31. März 2019"
+hosts:
+  - Olli
+  - Twitch
+  - Discord
+spotify: https://open.spotify.com/episode/0dawIw4Se04sp9IL5GnLdi
+youtube:
+topics:
+  - name: Borderlands 3
+    community: true
+    ad: false
+    start: 00:01:52
+    subtopics:
+      - BL3 Battle Royale Ja/Nein
+      - Battle Royal wird schnell sterben
+  - name: persönliche Trauerbewältigung
+    community: true
+    ad: false
+    start: 00:07:43
+    subtopics:
+      - Tod von Familienmitgliedern
+      - Religiösität und Dorfgemeinschaft
+      - Beisetzung und Trauerfeier
+      - Die eigene Beisetzung und Alternativen
+  - name: moderne Themen im Bildungswesen und bei Lehrern
+    community: true
+    ad: false
+    start: 00:18:30
+    subtopics:
+      - Medien(-in-)kompetenz im Bildungswesen
+      - Soziale Medien und Probleme
+      - Eigenverantwortung für Weiterbildung
+  - name: Nostalgie
+    community: true
+    ad: false
+    start: 00:37:00
+    subtopics:
+      - Alte Videospiele
+      - Alterung der Steuerung
+      - Retro Feeling in neuen Spielen
+      - Musik
+        -(Lieblings-)Essen und Süßigkeiten
+  - name: Wenn man eine Sache im Leben ändern kann
+    community: true
+    ad: false
+    start: 00:52:33
+    subtopics:
+      - Fleißiger sein in der Schule
+      - Schmetterlingseffekt
+      - Auf einen selber achten
+      - Altruismus
