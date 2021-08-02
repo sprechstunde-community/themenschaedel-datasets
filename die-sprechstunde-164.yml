@@ -1,0 +1,38 @@
+---
+username: Sajesga
+guid: 26e50817-b20e-4f2d-99b8-a46d343c2f41
+title: Von Absurd bis Joghurt! Pauls super geheimes Talent..
+hosts:
+  - Paul
+  - Olli
+  - Flo
+youtube: https://www.youtube.com/watch?v=ZTMaBHjq20k
+spotify: https://open.spotify.com/episode/5phbt62ANnfvaFAi4ldjgL?si=BVaGOChORaeSNGiq08PgiA&dl_branch=1
+topics:
+  - name: Flos Respekt an Eltern
+    community: false
+    ad: false
+    start: :00:01:38
+    subtopics:
+      - Erste Handys
+  - name: Mein geheimes Talent
+    community: true
+    ad: false
+    start: 00:15:42
+  - name: Auswandern
+    community: true
+    ad: false
+    start: 00:22:35
+  - name: Unvergessliche TV-Spielshows
+    community: true
+    ad: false
+    start: 00:35:54
+  - name: Laute Menschen
+    community: true
+    ad: false
+    start: 00:46:17
+  - name: Pausenbrot
+    community: true
+    ad: false
+    start: 00:52:42
+    end: 01:03:38

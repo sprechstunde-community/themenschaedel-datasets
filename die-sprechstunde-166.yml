@@ -1,0 +1,41 @@
+---
+username: Sajesga
+guid: 5a6613e9-e7bd-4d6c-85cd-f4a6e80145e5
+title: Wann ist eine Suppe ein Eintopf? Wir klären die wichtigen Fragen im Leben!
+hosts:
+  - Paul
+  - Olli
+  - Flo
+  - Nadine
+youtube: https://www.youtube.com/watch?v=Z516XM9cEak
+spotify: https://open.spotify.com/episode/6U9DrYd8D09S4UTiARPqCM?si=MJmRgSwuR2evVh873fi1Iw&dl_branch=1
+topics:
+  - name: Hello Fresh
+    community: false
+    ad: true
+    start: 00:00:17
+  - name: Softair
+    community: true
+    ad: false
+    start: 00:03:38
+  - name: Raclette oder Fondue
+    community: true
+    ad: false
+    start: 00:13:40
+  - name: Suppe
+    community: true
+    ad: false
+    start: 00:20:03
+  - name: Lieblingszitat aus einem Film
+    community: true
+    ad: false
+    start: 00:36:33
+  - name: Rezepte die du auswendig kannst
+    community: true
+    ad: false
+    start: 00:47:31
+  - name: Kinorituale
+    community: true
+    ad: false
+    start: 00:56:40
+    end: 01:09:40

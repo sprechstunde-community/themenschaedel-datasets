@@ -1,0 +1,39 @@
+---
+username: Sajesga
+guid: b277ba63-81ce-4c30-9ecc-cc12cc3ee266
+title: Übernatürliche Weihnachtsstimmung und ein Sechser im Lotto!
+hosts:
+  - Paul
+  - Olli
+  - Flo
+youtube: https://www.youtube.com/watch?v=MnJgbDlZhSE
+spotify: https://open.spotify.com/episode/5PreRRBHY3xH0QMvwpFAdu?si=qZu8q1kZRrWttkP0XY_Rxg
+topics:
+  - name: Wie gehts den Jungs so
+    community: false
+    ad: false
+    start: 00:01:01
+    subtopics:
+      - Märchen
+      - Zeit & Geld
+  - name: Wikipediaartikel über die Sprechstunde
+    community: true
+    ad: false
+    start: 00:18:20
+  - name: Essgeräusche
+    community: true
+    ad: false
+    start: 00:24:18
+  - name: Weihnachtsstimmung
+    community: true
+    ad: false
+    start: 00:25:40
+    subtopics:
+      - Zeitumstellung
+  - name: Hentai
+    community: true
+    ad: false
+    start: 00:44:20
+    end: 01:11:55
+    subtopics:
+      - verschiedene Serien

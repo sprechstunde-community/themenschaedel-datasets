@@ -1,0 +1,39 @@
+---
+username: Sajesga
+guid: 4deaf5db-b7c7-49b2-bbde-2315d79cfcb0
+title: "Unsere supergeheimen Lifehacks! Außerdem: Filzgleiter & echt seltsame Träume!"
+hosts:
+  - Olli
+  - Paul
+  - Flo
+youtube: https://www.youtube.com/watch?v=rSXHjWBVhxI
+spotify: https://open.spotify.com/episode/4ld0rrS9v3cA1ZgRmhmvlS?si=DoZPV995R7qwj7PhfujbLA&dl_branch=1
+topics:
+  - name: Readly
+    community: false
+    ad: true
+    start: 00:00:27
+  - name: Dein Lifehack
+    community: true
+    ad: false
+    start: 00:04:08
+  - name: Vegane Ernährung bei Kindern
+    community: true
+    ad: false
+    start: 00:12:25
+    subtopics:
+      - Haustiere vegan ernähren
+      - Selbstjustiz
+  - name: Filzgleiter
+    community: true
+    ad: false
+    start: 00:36:50
+  - name: Seltsame Träume
+    community: true
+    ad: false
+    start: 00:43:37
+  - name: Koffer packen
+    community: true
+    ad: false
+    start: 00:54:05
+    end: 01:63:55

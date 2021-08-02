@@ -1,0 +1,38 @@
+---
+username: Sajesga
+guid: fe43cc51-1386-4b04-a415-d1349b5b9d76
+title: Deep Fakes - das Ende jeder Wahrheit &amp; Die Kaffeemaschine im Bett
+hosts:
+  - Flo
+  - Olli
+  - Paul
+youtube: https://www.youtube.com/watch?v=wHt0S3KcJqY
+spotify: https://open.spotify.com/episode/7bUbx6apniDRo23mwFVozA?si=-h-KBeQQT7OkdfMiehum9g&dl_branch=1
+topics:
+  - name: Abiprüfungen
+    community: false
+    ad: false
+    start: 00:01:30
+  - name: Beste Sorte Pringles
+    community: true
+    ad: false
+    start: 00:06:00
+  - name: Beste Flugzeugstory
+    community:
+    ad:
+    start: 00:07:50
+  - name: Ins Bett geh Rituale
+    community: true
+    ad: false
+    start: 00:29:15
+    subtopics:
+    - Wie kam man darauf das zu Essen?
+  - name: Deep-Fakes
+    community: false
+    ad: false
+    start: 00:42:30
+  - name: Schlimmste Geburtstagsfeier
+    community: true
+    ad: false
+    start: 00:56:09
+    end: 01:07:35
